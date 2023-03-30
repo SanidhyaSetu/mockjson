@@ -2,7 +2,7 @@
   "cardData": [
      {
        "id": 1,
-       "pathName": "",
+       "pathName": "https://github.com/SanidhyaSetu/mockjson/blob/main/master-card.jpg",
        "cardNo": "XXXX8974",
               "TypeOfCard": "CREDIT CARD"
             },
@@ -13,7 +13,7 @@
               "TypeOfCard": "CREDIT CARD"
             },
             { "id": 3,
-              "pathName": "",
+              "pathName": "https://github.com/SanidhyaSetu/mockjson/blob/main/master-card.jpg",
               "cardNo": "XXXX8998",
               "TypeOfCard": "DEBIT CARD"
             },
