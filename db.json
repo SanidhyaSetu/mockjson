@@ -1,20 +1,25 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
+              "pathName": "../manifest/mastercard/master-card.webp",
+              "cardNo": "XXXX8974",
+              "TypeOfCard": "CREDIT CARD"
+            },
+            {
+              "pathName": "../manifest/visa/visa.webp",
+              "cardNo": "XXXX8977",
+              "TypeOfCard": "CREDIT CARD"
+            },
+            {
+              "pathName": "../manifest/mastercard/master-card.webp",
+              "cardNo": "XXXX8998",
+              "TypeOfCard": "DEBIT CARD"
+            },
+            {
+              "pathName": "../manifest/visa/visa.webp",
+              "cardNo": "XXXX8915",
+              "TypeOfCard": "CREDIT CARD"
+            },
   ],
   "comments": [
     {
