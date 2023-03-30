@@ -28,12 +28,22 @@
   "comments": [
     {
       "id": 1,
-      "body": "comment 1",
+      "body": "Other",
       "postId": 1
     },
     {
       "id": 2,
       "body": "comment 2",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "comment 3",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "comment 4",
       "postId": 1
     }
   ],
